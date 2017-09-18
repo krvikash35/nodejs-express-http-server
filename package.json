@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-http-server",
+  "version": "1.0.0",
+  "description": "simple Node.JS http server using express.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sysleaf/nodejs-express-http-server.git"
+  },
+  "author": "vikash kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sysleaf/nodejs-express-http-server/issues"
+  },
+  "homepage": "https://github.com/sysleaf/nodejs-express-http-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
